@@ -133,6 +133,8 @@ For this challenge it is required python3.8, as well as an environment with acce
 - Deploy environment: `sudo docker-compose up -d`
 - Running challenge script: `python postgres_challenge.py`
 
+> Note: If you have an error inserting the data due to duplicated ids, you can just comment those lines of code where data is being inserted and continue running. However, if you run the script only once, no error should show up.
+
 <br>  
 
 #### Challenge 2 answers:
