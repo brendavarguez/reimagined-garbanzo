@@ -1,11 +1,11 @@
 # installing docker
-#sudo apt install docker-compose
+sudo apt install docker-compose
 
 # deploy db
-#sudo docker-compose up -d
+sudo docker-compose up -d
 
 # install requirements
-#pip install -r requirements.txt
+pip install -r requirements.txt
 
 # execute scripts
 echo -e '----------------- \U00026a1 Python Challenge \U00026a1 -----------------';
